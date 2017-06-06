@@ -329,7 +329,11 @@ public void cancel() {
 ```
 
 
+
+
 ###### 권한 실행
+
+
 
 
 
@@ -339,3 +343,14 @@ public void cancel() {
             checkPermission();
         }
 ```
+
+
+
+
+
+## Android Emulator
+
+
+
+
+![ViewPager_2.jpg](https://github.com/iNusz/ViewPager/blob/master/ViewPager_2.jpg)
